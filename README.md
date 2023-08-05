@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @MananSuri27
 - 👀 I’m a Computer Engineering Sophomore at Netaji Subhas University of Technology.
-- 🌱 I’m currently learning Machine Learning.
-- 💞️ I’m looking to collaborate on Deep Learning.
 - 📫 How to reach me: www.linkedin.com/in/manansuri27
 
 <!---
