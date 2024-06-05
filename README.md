@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MananSuri27
-- 👀 I’m a Computer Engineering Sophomore at Netaji Subhas University of Technology.
 - 📫 How to reach me: www.linkedin.com/in/manansuri27
 - 👾 More about me: www.manansuri.com
 
